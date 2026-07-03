@@ -1,0 +1,9 @@
+[
+  {
+    "address": "GV6UUmNxz2RpKxmNAPadYKb7uQpszwqQAu3qLJxVdC52",
+    "name": "SOL_ME-Heuristi-gv6uu",
+    "emoji": "\ud83d\udea8",
+    "level": "CRITICAL",
+    "reason": "Heuristically-flagged hidden operator ammo (large \u226510% circulating + no Arkham label); very likely project reserve / OTC absorption / MM warehouse. Once it starts splitting across addresses / depositing to an exchange / matching on-chain, that is a strong signal the project is starting to dump"
+  }
+]
