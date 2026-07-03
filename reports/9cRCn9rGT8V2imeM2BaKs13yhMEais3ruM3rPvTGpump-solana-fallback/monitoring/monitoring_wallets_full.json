@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.6.1",
+  "source_symbol": "SOL_MEME",
+  "source_contract": "9crcn9rgt8v2imem2baks13yhmeais3rum3rpvtgpump",
+  "source_chain": "solana",
+  "n_wallets": 1,
+  "addresses": [
+    {
+      "address": "GV6UUmNxz2RpKxmNAPadYKb7uQpszwqQAu3qLJxVdC52",
+      "chain": "solana",
+      "label": "SOL_ME-Heuristi-gv6uu",
+      "role": "Heuristically-flagged hidden operator ammo (reserve)",
+      "severity": "watch",
+      "alert": "Critical watch: GV6UUmNxz2 holds about 586.64M tokens, roughly 58.66% of circulating supply, with no Arkham label in the Surf holder response. Track splits, exchange deposits, or rapid fan-out from this wallet.",
+      "source_sym": "SOL_MEME",
+      "source_contract": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "addr_short": "GV6UUmNxz2",
+      "monitor_level": "CRITICAL",
+      "monitor_score": 11,
+      "monitor_role_enum": "suspected_operator_reserve",
+      "monitor_reason": "Heuristically-flagged hidden operator ammo (large \u226510% circulating + no Arkham label); very likely project reserve / OTC absorption / MM warehouse. Once it starts splitting across addresses / depositing to an exchange / matching on-chain, that is a strong signal the project is starting to dump",
+      "source_behaviors": [],
+      "trigger_summary": "Tag type: heuristically-flagged hidden operator ammo (\u2265 10% circulating + no Arkham label). The user can watch whether / when these three on-chain behaviours occur: (1) splitting across multiple downstream accounts, (2) transferring into an Arkham-labeled exchange deposit address, (3) on-chain matching (direct transfer-out against USDT/BNB/WBNB etc.). If (2)(3) appear, combine with this report's confirmed sell-out section insider self-sell TWAP to estimate the actual realized USD."
+    }
+  ]
+}
