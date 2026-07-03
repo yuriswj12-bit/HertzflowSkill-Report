@@ -1,0 +1,79 @@
+[
+  {
+    "address": "0x1b5c6800daacb36a43c94378fcdc5d18e8f5e6e1",
+    "name": "TAC-\u5f02\u5e38-1b5c6",
+    "emoji": "\ud83d\udea8",
+    "level": "CRITICAL",
+    "reason": "\u8fd1 72h \u5f02\u5e38\u5927\u5355\u7684\u94fe\u4e0a\u53c2\u4e0e\u65b9, \u5f53\u4e0b\u6b63\u5728\u52a8"
+  },
+  {
+    "address": "0x346d25338f3cbd5a102011ca33a47d26b9400b90",
+    "name": "TAC-\u5f02\u5e38-346d2",
+    "emoji": "\ud83d\udea8",
+    "level": "CRITICAL",
+    "reason": "\u8fd1 72h \u5f02\u5e38\u5927\u5355\u7684\u94fe\u4e0a\u53c2\u4e0e\u65b9, \u5f53\u4e0b\u6b63\u5728\u52a8"
+  },
+  {
+    "address": "0x3d2bb7e9df6b49b82ec75214aea8feddab78fc5f",
+    "name": "TAC-\u5f02\u5e38-3d2bb",
+    "emoji": "\ud83d\udea8",
+    "level": "CRITICAL",
+    "reason": "\u8fd1 72h \u5f02\u5e38\u5927\u5355\u7684\u94fe\u4e0a\u53c2\u4e0e\u65b9, \u5f53\u4e0b\u6b63\u5728\u52a8"
+  },
+  {
+    "address": "0x5528cf58feb8fbfce94f43b33240fffb1312bde3",
+    "name": "TAC-\u5f02\u5e38-5528c",
+    "emoji": "\ud83d\udea8",
+    "level": "CRITICAL",
+    "reason": "\u8fd1 72h \u5f02\u5e38\u5927\u5355\u7684\u94fe\u4e0a\u53c2\u4e0e\u65b9, \u5f53\u4e0b\u6b63\u5728\u52a8"
+  },
+  {
+    "address": "0xb5893a55965a4a01c239f852d93ac47942415231",
+    "name": "TAC-\u5206\u53d1\u4e2d-b5893",
+    "emoji": "\ud83d\udd25",
+    "level": "HIGH",
+    "reason": "\u9879\u76ee\u65b9\u90e8\u7f72 / \u5185\u5e55\u5206\u53d1\u94b1\u5305, \u4f59\u989d\u53d8\u5316\u8ddf\u9879\u76ee\u65b9\u52a8\u4f5c\u76f4\u63a5\u5173\u8054"
+  },
+  {
+    "address": "0x653dd7677aea3030eab68c97ed3594bacf560158",
+    "name": "TAC-\u5df2\u5206\u5b8c\u94b1\u5305-653dd",
+    "emoji": "\ud83d\udd25",
+    "level": "HIGH",
+    "reason": "\u9879\u76ee\u65b9\u90e8\u7f72 / \u5185\u5e55\u5206\u53d1\u94b1\u5305, \u4f59\u989d\u53d8\u5316\u8ddf\u9879\u76ee\u65b9\u52a8\u4f5c\u76f4\u63a5\u5173\u8054"
+  },
+  {
+    "address": "0x93deb693b170d56bdde1b0a5222b14c0f885d976",
+    "name": "TAC-\u5df2\u5206\u5b8c\u94b1\u5305-93deb",
+    "emoji": "\ud83d\udd25",
+    "level": "HIGH",
+    "reason": "\u9879\u76ee\u65b9\u90e8\u7f72 / \u5185\u5e55\u5206\u53d1\u94b1\u5305, \u4f59\u989d\u53d8\u5316\u8ddf\u9879\u76ee\u65b9\u52a8\u4f5c\u76f4\u63a5\u5173\u8054"
+  },
+  {
+    "address": "0xbd97306a087ed0c46b783cfbfdcdc6c12c7a2866",
+    "name": "TAC-\u5df2\u5206\u5b8c\u94b1\u5305-bd973",
+    "emoji": "\ud83d\udd25",
+    "level": "HIGH",
+    "reason": "\u9879\u76ee\u65b9\u90e8\u7f72 / \u5185\u5e55\u5206\u53d1\u94b1\u5305, \u4f59\u989d\u53d8\u5316\u8ddf\u9879\u76ee\u65b9\u52a8\u4f5c\u76f4\u63a5\u5173\u8054"
+  },
+  {
+    "address": "0xca852767b43a395ac1dd54737193eba5e20c78bd",
+    "name": "TAC-\u5df2\u5206\u5b8c\u94b1\u5305-ca852",
+    "emoji": "\ud83d\udd25",
+    "level": "HIGH",
+    "reason": "\u9879\u76ee\u65b9\u90e8\u7f72 / \u5185\u5e55\u5206\u53d1\u94b1\u5305, \u4f59\u989d\u53d8\u5316\u8ddf\u9879\u76ee\u65b9\u52a8\u4f5c\u76f4\u63a5\u5173\u8054"
+  },
+  {
+    "address": "0xfe5b95b0f1d5e43d639d4986c4dd019be3be556e",
+    "name": "TAC-\u6f5c\u4f0f-fe5b9",
+    "emoji": "\ud83d\udd25",
+    "level": "HIGH",
+    "reason": "\u9879\u76ee\u65b9\u90e8\u7f72 / \u5185\u5e55\u5206\u53d1\u94b1\u5305, \u4f59\u989d\u53d8\u5316\u8ddf\u9879\u76ee\u65b9\u52a8\u4f5c\u76f4\u63a5\u5173\u8054"
+  },
+  {
+    "address": "0x60ac95ec1153aa8199751917ede25d0ca49a36e2",
+    "name": "TAC-\u5f02\u5e38-60ac9",
+    "emoji": "\ud83d\udd25",
+    "level": "HIGH",
+    "reason": "\u8fd1 72h \u5f02\u5e38\u5927\u5355\u7684\u94fe\u4e0a\u53c2\u4e0e\u65b9, \u5f53\u4e0b\u6b63\u5728\u52a8"
+  }
+]
