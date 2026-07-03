@@ -1,0 +1,114 @@
+[
+  {
+    "address": "GV6UUmNxz2RpKxmNAPadYKb7uQpszwqQAu3qLJxVdC52",
+    "name": "ANSEM-GV6UUm...dC52",
+    "emoji": "🔥",
+    "level": "HIGH",
+    "reason": "高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "Ac9Y9QLBw5evBnV5X7647kHfqEcqmA2wgbuN6Sb1zSZM",
+    "name": "ANSEM-Ac9Y9Q...zSZM",
+    "emoji": "🔥",
+    "level": "HIGH",
+    "reason": "高盈利地址"
+  },
+  {
+    "address": "5URyNUmhcuWdZiiQrtNdFrSbQPfq72UV2gqQasr9c19Y",
+    "name": "ANSEM-5URyNU...c19Y",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "3CPHk5b7SRvAsTsocehAu1bA5YKMXJYMr3qc2SuMFkWY",
+    "name": "ANSEM-3CPHk5...FkWY",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "CLM6E4zpTviEC77nWKogpVLQoXx9tgoQCYJ8NibxKg1Q",
+    "name": "ANSEM-CLM6E4...Kg1Q",
+    "emoji": "🔥",
+    "level": "HIGH",
+    "reason": "大额买入后仍持仓 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "2S8E25nAcqvvMYEWZHBQk22GzevwvmsVNAs6Gw5tRX7d",
+    "name": "ANSEM-2S8E25...RX7d",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "D3dGSyWF53e9DZDZb5m2WapCuABN1JcCt2q8EhwaqEm8",
+    "name": "ANSEM-D3dGSy...qEm8",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "9aP2vSFp2rydWR7C7kVZSQLQa2sT62w23ZHVP8BVSR5T",
+    "name": "ANSEM-9aP2vS...SR5T",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "8s2MNRtz4d8ytu4wu8UnFi8ePWTKUWXB61inL59Trmez",
+    "name": "ANSEM-8s2MNR...rmez",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 关键标签地址"
+  },
+  {
+    "address": "9H9HU7RsFnovQ9jPXo4Er9EPCdNQaHEtey8f6CpAC4AZ",
+    "name": "ANSEM-9H9HU7...C4AZ",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "6btcCbEdYnCUyuzV3JEMDpw9YbbF1tPFzNSN2Sfwg5eT",
+    "name": "ANSEM-6btcCb...g5eT",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址"
+  },
+  {
+    "address": "99ZbtoWfTeHtBUGkHixJaquL1g3BtPkBgCsZjP6sbtt1",
+    "name": "ANSEM-99Zbto...btt1",
+    "emoji": "🚨",
+    "level": "CRITICAL",
+    "reason": "大额卖出 / 高盈利地址 / 关键标签地址"
+  },
+  {
+    "address": "9UUyxTXZByLMjbCk5jLBejvPS5bcUA37yXdxwhabdxjT",
+    "name": "ANSEM-MM-9UUyxT...dxjT",
+    "emoji": "⚙️",
+    "level": "HIGH",
+    "reason": "疑似 MM/做市相关: GMGN/bot 标签命中 / 高频成交且低库存 / 买卖量接近平衡，疑似做市/刷量"
+  },
+  {
+    "address": "H3qrSThjpPjKvkqMUYqLTVucb5H7nhCUQAn9U3ekBxj1",
+    "name": "ANSEM-MM-H3qrST...Bxj1",
+    "emoji": "⚙️",
+    "level": "HIGH",
+    "reason": "疑似 MM/做市相关: GMGN/bot 标签命中 / 高频成交且低库存"
+  },
+  {
+    "address": "3MZvE3LHAEY8d3XTa2ZxWHgGEF4q2d4Vs7M4ZTL5MgKN",
+    "name": "ANSEM-MM-3MZvE3...MgKN",
+    "emoji": "⚙️",
+    "level": "HIGH",
+    "reason": "疑似 MM/做市相关: GMGN/bot 标签命中 / 高频成交且低库存 / 买卖量接近平衡，疑似做市/刷量"
+  },
+  {
+    "address": "78thMY8yfYzXGRhSArPMr7j8Rsh5QEPZviHVPfEfoMDM",
+    "name": "ANSEM-MM-78thMY...oMDM",
+    "emoji": "⚙️",
+    "level": "HIGH",
+    "reason": "疑似 MM/做市相关: GMGN/bot 标签命中 / 高频成交且低库存"
+  }
+]
